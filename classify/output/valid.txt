@@ -1,0 +1,2 @@
+./output/valid/images/6.jpg
+./output/valid/images/1.jpg

@@ -1,0 +1,4 @@
+./output/train/images/4.jpg
+./output/train/images/3.jpg
+./output/train/images/2.jpg
+./output/train/images/5.jpg
