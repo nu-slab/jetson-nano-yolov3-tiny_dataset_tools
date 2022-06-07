@@ -8,4 +8,5 @@
 |[rename_file](./rename_file)|画像やラベルのファイルを一括で置換します。|
 |[resize_img](./resize_img)|画像やラベルを指定の画像サイズに変換します。|
 |[resize_only_img](./resize_only_img)|画像のみを指定の画像サイズに変換します。|
+|[merge_dataset](./merge_dataset)|2つのデータセットをマージします。|
 |[sandbox](./sandbox)|その他のツール|
