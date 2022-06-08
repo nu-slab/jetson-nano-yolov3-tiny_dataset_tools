@@ -9,4 +9,5 @@
 |[resize_img](./resize_img)|画像やラベルを指定の画像サイズに変換します。|
 |[resize_only_img](./resize_only_img)|画像のみを指定の画像サイズに変換します。|
 |[merge_dataset](./merge_dataset)|2つのデータセットをマージします。|
+|[OIDv6_format_to_yolo_format](./OIDv6_format_to_yolo_format)|OIDv6で取得したデータセットをYOLO形式に変換します。|
 |[sandbox](./sandbox)|その他のツール|
