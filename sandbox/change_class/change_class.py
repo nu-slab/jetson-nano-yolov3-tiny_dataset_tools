@@ -30,7 +30,8 @@ for i,cls_change_str in enumerate(cls_change_list):
     cls_change_list[i] = cls_change_str.replace('\n','')
 
 cls_change_list = make_array(cls_change_list)
-
+for line in cls_change_list:
+    print("cls:"+line[0]+" --> "+line[1])
 image_path = input_path+'/images'
 label_path = input_path+'/labels'
 output_image_path = './output/images'
