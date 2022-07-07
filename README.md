@@ -10,4 +10,5 @@
 |[resize_only_img](./resize_only_img)|画像のみを指定の画像サイズに変換します。|
 |[merge_dataset](./merge_dataset)|2つのデータセットをマージします。|
 |[OIDv6_format_to_yolo_format](./OIDv6_format_to_yolo_format)|OIDv6で取得したデータセットをYOLO形式に変換します。|
+|[rm_img_GUI](https://github.com/yarakigit/rm_img_GUI)|データセットに相応しくない画像をGUIで削除|
 |[sandbox](./sandbox)|その他のツール|
