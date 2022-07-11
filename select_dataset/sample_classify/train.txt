@@ -1,0 +1,4 @@
+/home/users/yaraki/work/make_dataset/tool/selected_dataset/output/train/images/4.jpg
+/home/users/yaraki/work/make_dataset/tool/selected_dataset/output/train/images/3.jpg
+/home/users/yaraki/work/make_dataset/tool/selected_dataset/output/train/images/5.jpg
+/home/users/yaraki/work/make_dataset/tool/selected_dataset/output/train/images/6.jpg
