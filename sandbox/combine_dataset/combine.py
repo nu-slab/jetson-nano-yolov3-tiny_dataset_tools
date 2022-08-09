@@ -24,12 +24,8 @@ file_type = args.file_type
 #    - labels
 
 # ./output
-#  - cls1 
-#    - images
-#    - labels
-#  - cls2 
-#    - images
-#    - labels
+#  - images 
+#  - labels
 
 cls_list_file =  open(cls_list_file_name, mode='r')
 cls_list = cls_list_file.readlines()
