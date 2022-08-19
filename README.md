@@ -4,7 +4,8 @@
 |Name|Explanation|
 |:-------------|:---|
 |[classify](./classify) |画像やラベルのファイルをtrain用・valid用・test用に分割します。|
-|[preview_dataset](./preview_dataset)           |学習データセットのBBoxを画像上に表示します。|
+|[preview_dataset](./preview_dataset)           |学習データセットのBBoxを画像上に表示します。(YOLO形式のデータ)|
+|[preview_dataset_absxy](./preview_dataset_absxy)           |学習データセットのBBoxを画像上に表示します。(画像上の絶対座標のデータ)|
 |[rename_file](./rename_file)|画像やラベルのファイルを一括で置換します。|
 |[resize_img](./resize_img)|画像やラベルを指定の画像サイズに変換します。|
 |[resize_only_img](./resize_only_img)|画像のみを指定の画像サイズに変換します。|
