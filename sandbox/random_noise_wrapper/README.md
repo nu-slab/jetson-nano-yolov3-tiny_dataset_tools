@@ -1,0 +1,3 @@
+-  Reference
+   - [Pytorch – torchvision で使える Transform まとめ](https://pystyle.info/pytorch-list-of-transforms/#outline__6_1)
+   - [Pytorch:ColorJitter](https://pytorch.org/vision/main/generated/torchvision.transforms.ColorJitter.html)
